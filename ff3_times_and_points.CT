@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="34">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"Hours"</Description>
+      <LastState Value="0" RealAddress="2031EDC0"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>2031EDC0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Minutes"</Description>
+      <LastState Value="6" RealAddress="2031EDC4"/>
+      <VariableType>Byte</VariableType>
+      <Address>2031EDC4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Seconds"</Description>
+      <LastState Value="52" RealAddress="2031EDC8"/>
+      <VariableType>Byte</VariableType>
+      <Address>2031EDC8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"Points"</Description>
+      <LastState Value="60351" RealAddress="2031EDB8"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>2031EDB8</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

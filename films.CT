@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="34">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"No description"</Description>
+      <LastState Value="2" RealAddress="203207F8"/>
+      <VariableType>Byte</VariableType>
+      <Address>203207F8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"No description"</Description>
+      <LastState Value="5" RealAddress="203207F6"/>
+      <VariableType>Byte</VariableType>
+      <Address>203207F6</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"No description"</Description>
+      <LastState Value="2" RealAddress="203207F4"/>
+      <VariableType>Byte</VariableType>
+      <Address>203207F4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"No description"</Description>
+      <LastState Value="18" RealAddress="203207F2"/>
+      <VariableType>Byte</VariableType>
+      <Address>203207F2</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"No description"</Description>
+      <LastState Value="12" RealAddress="203207F0"/>
+      <VariableType>Byte</VariableType>
+      <Address>203207F0</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

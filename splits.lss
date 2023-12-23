@@ -1,0 +1,1589 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Fatal Frame 3</GameName>
+  <CategoryName>Nightmare Any%</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>19</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="11/30/2023 13:32:44" isStartedSynced="True" ended="11/30/2023 13:32:59" isEndedSynced="True" />
+    <Attempt id="2" started="11/30/2023 13:33:59" isStartedSynced="True" ended="11/30/2023 13:34:35" isEndedSynced="True" />
+    <Attempt id="3" started="11/30/2023 13:37:09" isStartedSynced="True" ended="11/30/2023 13:37:16" isEndedSynced="True" />
+    <Attempt id="4" started="11/30/2023 13:38:02" isStartedSynced="True" ended="11/30/2023 13:38:05" isEndedSynced="True" />
+    <Attempt id="5" started="11/30/2023 13:38:24" isStartedSynced="True" ended="11/30/2023 13:38:31" isEndedSynced="True" />
+    <Attempt id="6" started="11/30/2023 13:38:57" isStartedSynced="True" ended="11/30/2023 13:39:23" isEndedSynced="True" />
+    <Attempt id="7" started="11/30/2023 13:39:36" isStartedSynced="True" ended="11/30/2023 13:39:42" isEndedSynced="True" />
+    <Attempt id="8" started="11/30/2023 20:56:54" isStartedSynced="True" ended="12/01/2023 00:51:19" isEndedSynced="True">
+      <RealTime>03:54:25.1042019</RealTime>
+    </Attempt>
+    <Attempt id="9" started="12/01/2023 17:47:15" isStartedSynced="False" ended="12/01/2023 17:48:13" isEndedSynced="False" />
+    <Attempt id="10" started="12/01/2023 17:48:19" isStartedSynced="False" ended="12/01/2023 21:20:27" isEndedSynced="False">
+      <RealTime>03:32:08.0804731</RealTime>
+    </Attempt>
+    <Attempt id="11" started="12/02/2023 19:55:56" isStartedSynced="True" ended="12/02/2023 19:57:23" isEndedSynced="True" />
+    <Attempt id="12" started="12/02/2023 19:57:31" isStartedSynced="True" ended="12/02/2023 23:58:35" isEndedSynced="True">
+      <RealTime>04:01:04.0431175</RealTime>
+    </Attempt>
+    <Attempt id="13" started="12/09/2023 20:17:20" isStartedSynced="True" ended="12/10/2023 00:05:28" isEndedSynced="True">
+      <RealTime>03:48:07.7885190</RealTime>
+    </Attempt>
+    <Attempt id="14" started="12/10/2023 15:31:50" isStartedSynced="True" ended="12/10/2023 19:12:59" isEndedSynced="True">
+      <RealTime>03:41:08.8618828</RealTime>
+    </Attempt>
+    <Attempt id="15" started="12/17/2023 12:24:43" isStartedSynced="False" ended="12/17/2023 13:25:18" isEndedSynced="True" />
+    <Attempt id="16" started="12/17/2023 13:25:44" isStartedSynced="True" ended="12/17/2023 17:01:04" isEndedSynced="True">
+      <RealTime>03:35:19.7114350</RealTime>
+    </Attempt>
+    <Attempt id="17" started="12/22/2023 20:40:58" isStartedSynced="True" ended="12/22/2023 20:41:20" isEndedSynced="True" />
+    <Attempt id="18" started="12/22/2023 20:41:48" isStartedSynced="True" ended="12/23/2023 00:05:27" isEndedSynced="True">
+      <RealTime>03:23:38.8644524</RealTime>
+      <GameTime>03:03:20.1888592</GameTime>
+    </Attempt>
+    <Attempt id="19" started="12/23/2023 00:06:41" isStartedSynced="True" ended="12/23/2023 00:06:45" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>H0 (Rei)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:03:00.9940858</RealTime>
+          <GameTime>00:02:48.0528127</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:42.2816828</RealTime>
+        <GameTime>00:02:48.0528127</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:03:00.6719578</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:03:00.6168564</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:03:01.3415206</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:02:43.2347135</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:42.2816828</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:03:00.5823795</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:03:00.9940858</RealTime>
+          <GameTime>00:02:48.0528127</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Mommy</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:07:34.4889084</RealTime>
+          <GameTime>00:07:13.1870164</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:15.6025887</RealTime>
+        <GameTime>00:04:25.1342037</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:04:15.6025887</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:04:40.5759386</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:04:39.4801533</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:04:22.4709108</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:04:37.2405163</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:04:27.3225509</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:04:33.4948226</RealTime>
+          <GameTime>00:04:25.1342037</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Yoshino</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:19:24.6002401</RealTime>
+          <GameTime>00:18:46.0642524</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:11:30.6126005</RealTime>
+        <GameTime>00:11:32.8772360</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:12:02.4636777</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:12:10.8414955</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:12:12.5646532</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:11:39.0482961</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:11:40.8603817</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:11:30.6126005</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:11:50.1113317</RealTime>
+          <GameTime>00:11:32.8772360</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>H1 (Rei)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:20:12.9815480</RealTime>
+          <GameTime>00:19:34.0680463</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:48.3813079</RealTime>
+        <GameTime>00:00:48.0037939</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:00:49.6173109</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:00:52.2798395</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:00:48.5523511</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:00:49.2941234</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:00:49.5305815</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:00:50.9057187</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:00:48.3813079</RealTime>
+          <GameTime>00:00:48.0037939</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Stained Carpenters</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:25:19.6270021</RealTime>
+          <GameTime>00:24:31.1830409</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:52.2705461</RealTime>
+        <GameTime>00:04:57.1149946</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:05:30.8398686</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:05:37.6847956</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:06:06.5915293</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:04:52.2705461</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:05:34.1761779</RealTime>
+        </Time>
+        <Time id="16" />
+        <Time id="18">
+          <RealTime>00:05:06.6454541</RealTime>
+          <GameTime>00:04:57.1149946</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Roof Carpenter</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:26:45.7430237</RealTime>
+          <GameTime>00:25:54.0964199</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:26.1160216</RealTime>
+        <GameTime>00:01:22.9133790</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:03:05.1714146</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:02:56.9867556</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:02:44.8790097</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:02:45.9540850</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:27.0640184</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:07:53.2657332</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:01:26.1160216</RealTime>
+          <GameTime>00:01:22.9133790</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>H2 (Rei)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:29:52.6018688</RealTime>
+          <GameTime>00:29:01.1095040</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:59.7977565</RealTime>
+        <GameTime>00:03:07.0130841</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:03:03.8993616</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:03:15.7578053</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:03:06.5822186</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:03:31.4032298</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:59.7977565</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:03:01.6422140</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:03:06.8588451</RealTime>
+          <GameTime>00:03:07.0130841</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Kyouka</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:37:36.6110839</RealTime>
+          <GameTime>00:36:30.1528680</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:25.8148682</RealTime>
+        <GameTime>00:07:29.0433640</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8" />
+        <Time id="10">
+          <RealTime>00:08:13.2408388</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:07:25.8148682</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:10:26.3105838</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:07:38.7278152</RealTime>
+        </Time>
+        <Time id="16" />
+        <Time id="18">
+          <RealTime>00:07:44.0092151</RealTime>
+          <GameTime>00:07:29.0433640</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Little S***</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:40:13.3560344</RealTime>
+          <GameTime>00:39:02.1702749</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:08.6638920</RealTime>
+        <GameTime>00:02:32.0174069</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:10:13.7882501</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:03:01.0018911</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:03:10.4075836</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:02:08.6638920</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:27.6563180</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:09:41.2174608</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:02:36.7449505</RealTime>
+          <GameTime>00:02:32.0174069</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>H3 (Rei)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:42:37.7550811</RealTime>
+          <GameTime>00:41:25.0339347</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:10.3771353</RealTime>
+        <GameTime>00:02:22.8636598</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:02:16.2462858</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:02:11.3694812</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:02:17.3560697</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:02:19.1918259</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:10.3771353</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:02:26.8632775</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:02:24.3990467</RealTime>
+          <GameTime>00:02:22.8636598</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Butcher</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:46:38.6873144</RealTime>
+          <GameTime>00:43:44.1127872</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:24.2324219</RealTime>
+        <GameTime>00:02:19.0788525</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8" />
+        <Time id="10">
+          <RealTime>00:02:48.2011943</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:03:11.3670725</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:03:04.4419615</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:58.7604459</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:02:24.2324219</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:04:00.9322333</RealTime>
+          <GameTime>00:02:19.0788525</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Kyouka</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:49:17.4184851</RealTime>
+          <GameTime>00:46:17.0892583</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:34.9277017</RealTime>
+        <GameTime>00:02:32.9764711</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:07:29.3163266</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:02:34.9277017</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:02:58.4919360</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:06:51.1664451</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:45.5546154</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:03:03.8475823</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:02:38.7311707</RealTime>
+          <GameTime>00:02:32.9764711</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Rope Lady</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:53:16.7004244</RealTime>
+          <GameTime>00:47:44.1523752</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:04.7509610</RealTime>
+        <GameTime>00:01:27.0631169</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8" />
+        <Time id="10">
+          <RealTime>00:02:17.5873972</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:02:17.2355545</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:02:04.7509610</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:03:30.1047221</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:06:14.2497791</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:03:59.2819393</RealTime>
+          <GameTime>00:01:27.0631169</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>H4 (Miku)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:56:27.4703491</RealTime>
+          <GameTime>00:50:52.0011927</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:07.7116598</RealTime>
+        <GameTime>00:03:07.8488175</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:07:51.3424316</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:03:19.3582252</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:03:42.4427137</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:03:07.7116598</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:03:23.6745707</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:03:29.4301064</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:03:10.7699247</RealTime>
+          <GameTime>00:03:07.8488175</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>H5 (Kei)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:05:35.4891498</RealTime>
+          <GameTime>00:59:56.0969093</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:49.1048755</RealTime>
+        <GameTime>00:09:04.0957166</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:09:07.2979344</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:09:17.2034644</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:09:05.8786278</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:08:49.1048755</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:08:54.0078892</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:09:08.1207230</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:09:08.0188007</RealTime>
+          <GameTime>00:09:04.0957166</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Foyer Little S***</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:09:12.9403089</RealTime>
+          <GameTime>01:03:28.1070169</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:37.4511591</RealTime>
+        <GameTime>00:03:32.0101076</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:05:05.6392979</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:05:04.4053990</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:04:38.4275640</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:03:56.0212642</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:03:49.3724267</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:03:49.7849644</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:03:37.4511591</RealTime>
+          <GameTime>00:03:32.0101076</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Tatami Carpenter</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:13:00.0749473</RealTime>
+          <GameTime>01:07:10.0808581</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:29.4167659</RealTime>
+        <GameTime>00:03:41.9738412</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8" />
+        <Time id="10">
+          <RealTime>00:04:09.3542605</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:04:24.9144765</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:04:12.5361858</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:03:29.4167659</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:03:49.1133731</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:03:47.1346384</RealTime>
+          <GameTime>00:03:41.9738412</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Foyer Carpenter</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:16:39.1982137</RealTime>
+          <GameTime>01:10:43.0315227</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:39.1232664</RealTime>
+        <GameTime>00:03:32.9506646</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8" />
+        <Time id="10">
+          <RealTime>00:04:08.8494654</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:03:47.1340467</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:04:17.7239667</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:07:04.7393370</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:04:20.5893823</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:03:39.1232664</RealTime>
+          <GameTime>00:03:32.9506646</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Stairs Carpenter</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:18:57.5230839</RealTime>
+          <GameTime>01:12:56.0170357</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:06.7415304</RealTime>
+        <GameTime>00:02:12.9855130</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8" />
+        <Time id="10">
+          <RealTime>00:02:22.8142950</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:02:26.1996268</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:02:20.2375030</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:28.9379402</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:02:06.7415304</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:02:18.3248702</RealTime>
+          <GameTime>00:02:12.9855130</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Loft Carpenter</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:25:28.5797861</RealTime>
+          <GameTime>01:16:14.0879986</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:04.8312764</RealTime>
+        <GameTime>00:03:18.0709629</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:15:51.3858379</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:03:04.8312764</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:05:30.2393003</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:03:11.1242632</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:03:14.6968948</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:04:46.1150958</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:06:31.0567022</RealTime>
+          <GameTime>00:03:18.0709629</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>H6 (Rei)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:28:28.5141943</RealTime>
+          <GameTime>01:19:13.1906241</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:42.0747504</RealTime>
+        <GameTime>00:02:59.1026255</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:03:01.0176159</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:03:00.7288676</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:03:00.8500009</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:03:07.2212299</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:42.0747504</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:02:50.3031521</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:02:59.9344082</RealTime>
+          <GameTime>00:02:59.1026255</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Altar Little S***</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:31:13.9374033</RealTime>
+          <GameTime>01:21:55.1932191</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:34.4051973</RealTime>
+        <GameTime>00:02:42.0025950</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:03:03.9683932</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:02:41.8119211</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:02:39.3998542</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:02:53.4280406</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:34.4051973</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:03:00.7678994</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:02:45.4232090</RealTime>
+          <GameTime>00:02:42.0025950</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Yashuu</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:45:14.0922775</RealTime>
+          <GameTime>01:33:38.0014699</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:11:45.6682165</RealTime>
+        <GameTime>00:11:42.8082508</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:12:48.8621841</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:12:26.6600546</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:15:04.6667117</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:11:45.6682165</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:13:33.1903859</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:18:33.6729350</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:14:00.1548742</RealTime>
+          <GameTime>00:11:42.8082508</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>H7 (Miku)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:46:51.1083670</RealTime>
+          <GameTime>01:35:14.0618990</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:37.0160895</RealTime>
+        <GameTime>00:01:36.0604291</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:02:00.3981243</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:02:26.8799377</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:02:15.5847192</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:02:04.7749519</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:12.0832545</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:53.8706683</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:01:37.0160895</RealTime>
+          <GameTime>00:01:36.0604291</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Kusabi</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:55:58.4148209</RealTime>
+          <GameTime>01:43:01.1318028</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:28.8601953</RealTime>
+        <GameTime>00:07:47.0699038</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:10:05.1676531</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:08:30.4877678</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:10:04.2226636</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:08:28.8601953</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:14:37.2645560</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:09:41.8224077</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:09:07.3064539</RealTime>
+          <GameTime>00:07:47.0699038</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>H8 (Kei)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:59:07.6129992</RealTime>
+          <GameTime>01:46:09.0484588</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:38.5636277</RealTime>
+        <GameTime>00:03:07.9166560</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:03:03.4637945</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:02:52.7066785</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:02:52.8102083</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:02:52.9716785</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:38.5636277</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:03:05.2447587</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:03:09.1981783</RealTime>
+          <GameTime>00:03:07.9166560</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Butcher 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:01:32.4346957</RealTime>
+          <GameTime>01:48:25.0824451</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:24.8216965</RealTime>
+        <GameTime>00:02:16.0339863</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8" />
+        <Time id="10">
+          <RealTime>00:03:17.3726434</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:04:09.5607653</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:03:05.6458836</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:06:02.1424156</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:04:46.5633074</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:02:24.8216965</RealTime>
+          <GameTime>00:02:16.0339863</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Butcher 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:05:31.7349364</RealTime>
+          <GameTime>01:52:17.1176926</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:54.3166206</RealTime>
+        <GameTime>00:03:52.0352475</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:11:49.1814711</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:03:54.3166206</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:04:43.6221461</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:04:16.5167269</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:06:15.9915312</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:04:03.6310587</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:03:59.3002407</RealTime>
+          <GameTime>00:03:52.0352475</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>H9 (Rei)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:07:36.7856649</RealTime>
+          <GameTime>01:54:19.0358527</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:46.4549765</RealTime>
+        <GameTime>00:02:01.9181601</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:02:14.8025442</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:02:04.5340811</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:02:12.3407257</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:49.5438424</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:46.4549765</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:59.4315565</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:02:05.0507285</RealTime>
+          <GameTime>00:02:01.9181601</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Spike Ladies</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:16:22.0839822</RealTime>
+          <GameTime>02:02:46.1789308</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:45.2983173</RealTime>
+        <GameTime>00:08:27.1430781</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:12:08.8946524</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:10:37.4320394</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:11:29.7885833</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:11:47.5061302</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:17:31.3547898</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:12:21.9738792</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:08:45.2983173</RealTime>
+          <GameTime>00:08:27.1430781</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>H10 (Kei)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:18:59.2972703</RealTime>
+          <GameTime>02:05:23.1416235</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:08.6852589</RealTime>
+        <GameTime>00:02:36.9626927</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:02:08.6852589</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:02:39.2185998</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:02:29.9024621</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:02:27.9692223</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:20.7755139</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:02:11.2920147</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:02:37.2132881</RealTime>
+          <GameTime>00:02:36.9626927</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Yashuu</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:29:15.6606372</RealTime>
+          <GameTime>02:15:28.0357309</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:04.6544954</RealTime>
+        <GameTime>00:10:04.8941074</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:11:25.7558502</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:10:52.9091734</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:11:17.2793784</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:10:19.1361421</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:10:04.6544954</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:10:05.1926957</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:10:16.3633669</RealTime>
+          <GameTime>00:10:04.8941074</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-3 Little S***s</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:33:07.4829383</RealTime>
+          <GameTime>02:19:13.1875870</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:38.7107091</RealTime>
+        <GameTime>00:03:45.1518561</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:05:37.1522111</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:05:37.4352882</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:06:06.6041599</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:03:38.7107091</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:05:51.6729050</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:03:57.3394565</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:03:51.8223011</RealTime>
+          <GameTime>00:03:45.1518561</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Rope Lady</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:38:57.5158081</RealTime>
+          <GameTime>02:24:54.1808073</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:24.2121309</RealTime>
+        <GameTime>00:05:40.9932203</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:08:34.7791810</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:06:25.7343535</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:05:30.2020612</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:05:53.1463872</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:03:59.2784241</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:03:24.2121309</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:05:50.0328698</RealTime>
+          <GameTime>00:05:40.9932203</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>H11 (Miku)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:41:03.3080363</RealTime>
+          <GameTime>02:26:59.1222442</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:05.7124658</RealTime>
+        <GameTime>00:02:04.9414369</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:02:12.2814937</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:02:10.9011172</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:02:12.1227287</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:02:08.9047289</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:05.7124658</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:02:08.7108997</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:02:05.7922282</RealTime>
+          <GameTime>00:02:04.9414369</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Yashuu and Little S***</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:54:29.3084631</RealTime>
+          <GameTime>02:39:45.1192224</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:13:26.0004268</RealTime>
+        <GameTime>00:12:45.9969782</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:15:51.6475059</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:15:02.0934897</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:26:46.3054946</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:25:16.0618759</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:14:11.1657193</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:16:13.1151052</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:13:26.0004268</RealTime>
+          <GameTime>00:12:45.9969782</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>H12 (~NW, ~S/SW, NW/R/R, N/SW)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:58:28.0312804</RealTime>
+          <GameTime>02:43:41.1798708</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:44.2035824</RealTime>
+        <GameTime>00:03:56.0606484</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:04:15.5272194</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:04:27.9019416</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:04:20.7813707</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:03:59.3942436</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:03:44.2035824</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:03:58.2578596</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:03:58.7228173</RealTime>
+          <GameTime>00:03:56.0606484</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Yashuu</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>03:09:23.7272319</RealTime>
+          <GameTime>02:54:24.1707878</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:35.4970719</RealTime>
+        <GameTime>00:10:42.9909170</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:13:58.5278777</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:11:20.8964520</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:12:02.4941119</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:23:12.3160905</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:08:35.4970719</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:10:30.7625596</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:10:55.6959515</RealTime>
+          <GameTime>00:10:42.9909170</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-One Little S***</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>03:14:38.1989503</RealTime>
+          <GameTime>02:57:49.0480392</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:47.8702538</RealTime>
+        <GameTime>00:03:24.8772514</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8" />
+        <Time id="10">
+          <RealTime>00:06:44.5849231</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:04:36.3608922</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:02:47.8702538</RealTime>
+        </Time>
+        <Time id="14" />
+        <Time id="16">
+          <RealTime>00:04:30.5288362</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:05:14.4717184</RealTime>
+          <GameTime>00:03:24.8772514</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Two Little S***s</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>03:15:54.0624714</RealTime>
+          <GameTime>02:59:01.1136965</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:03.2525618</RealTime>
+        <GameTime>00:01:12.0656573</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:14:26.7232400</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:00:03.2525618</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:04:25.5223603</RealTime>
+        </Time>
+        <Time id="13" />
+        <Time id="14" />
+        <Time id="16">
+          <RealTime>00:02:23.9460613</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:01:15.8635211</RealTime>
+          <GameTime>00:01:12.0656573</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>POLSKA GÓRĄ</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>03:23:38.8644524</RealTime>
+          <GameTime>03:03:20.1888592</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:21.0389070</RealTime>
+        <GameTime>00:04:19.0751627</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:05:54.9853870</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:09:42.3335843</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:15:07.7208431</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:08:39.4806776</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:15:35.3982286</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:07:34.4352988</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:07:44.8019810</RealTime>
+          <GameTime>00:04:19.0751627</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
