@@ -1,6 +1,6 @@
-# Fatal Frame 3 / Zero ~Shisei No Koe~ Autosplitter
+# Fatal Frame 3 / Zero \~Shisei No Koe\~ Autosplitter
 
-An "autosplitter", to be used in LiveSplit and the Fatal Frame 3/ Zero ~Shisei No Koe~ game emulated on the
+An "autosplitter", to be used in LiveSplit and the Fatal Frame 3/ Zero \~Shisei No Koe\~ game emulated on the
 [PCSX2 emulator](https://pcsx2.net). This script allows game time to be viewed on livesplit. It also allows
 you to view your points and film using [ASL var viewer](https://github.com/hawkerm/LiveSplit.ASLVarViewer)
 **FOR TRAINING PURPOSES ONLY** (i.e., don't view these variables on actual runs!)
