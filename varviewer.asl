@@ -1,5 +1,5 @@
 // Zero 3 Shisei No Koe Game time and variable viewer
-// Autor: Sena (twitch.tv/sena_ttv; github.com/sena_ttv)
+// Autor: Sena (twitch.tv/sena_ttv; github.com/senattv)
 // A tool to visualize in-game time on LiveSplit, as well
 // as useful variables you need to open the menu to check
 // (points and film).
