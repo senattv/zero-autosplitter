@@ -15,49 +15,53 @@ state("pcsx2") {
 
 startup {
   refreshRate = 5; // more than enough to keep all up-to-date
+  vars.hour_watcher = new MemoryWatcher<byte>((IntPtr) 0x2031EDB2);
+  vars.reset_watcher = new MemoryWatcher<byte>((IntPtr) 0x20324D53);
 }
 
 update {
-  uint points = 0;
-  byte seconds = 0;
-  byte minutes = 0;
-  uint hours = 0;
-  
-  byte type_7 = 0;
-  byte type_14 = 0;
-  byte type_61 = 0;
-  byte type_90 = 0;
-  byte type_0 = 0;
+  vars.hour_watcher.Update(game);
+  vars.reset_watcher.Update(game);
 
   // points  
-  memory.ReadValue<uint>((IntPtr) 0x2031EDB8, out points);
+  uint points = memory.ReadValue<uint>((IntPtr) 0x2031EDB8);
 
   // IGT
-  memory.ReadValue<byte>((IntPtr) 0x2031EDC8, out seconds);
-  memory.ReadValue<byte>((IntPtr) 0x2031EDC4, out minutes);
-  memory.ReadValue<uint>((IntPtr) 0x2031EDC0, out hours);
+  byte seconds = memory.ReadValue<byte>((IntPtr) 0x2031EDC8);
+  byte minutes = memory.ReadValue<byte>((IntPtr) 0x2031EDC4);
+  uint hours = memory.ReadValue<uint>((IntPtr) 0x2031EDC0);
+  
+  // Just to show on ASL var viewer
+  byte the_hour = memory.ReadValue<byte>((IntPtr) 0x2031EDB2);
 
   // film
-  memory.ReadValue<byte>((IntPtr) 0x203207F0, out type_7);
-  memory.ReadValue<byte>((IntPtr) 0x203207F2, out type_14);
-  memory.ReadValue<byte>((IntPtr) 0x203207F4, out type_61);
-  memory.ReadValue<byte>((IntPtr) 0x203207F6, out type_90);
-  memory.ReadValue<byte>((IntPtr) 0x203207F8, out type_0);
-   
+  byte type_7 = memory.ReadValue<byte>((IntPtr) 0x203207F0);
+  byte type_14 = memory.ReadValue<byte>((IntPtr) 0x203207F2);
+  byte type_61 = memory.ReadValue<byte>((IntPtr) 0x203207F4);
+  byte type_90 = memory.ReadValue<byte>((IntPtr) 0x203207F6);
+  byte type_0 = memory.ReadValue<byte>((IntPtr) 0x203207F8);
+    
   vars.points = points;
   vars.hours = hours;
   vars.minutes = minutes;
   vars.seconds = seconds;
+  vars.the_hour = the_hour;
   
-  vars.type_7 = type_7;
-  vars.type_14 = type_14;
-  vars.type_61 = type_61;
-  vars.type_90 = type_90;
-  vars.type_0 = type_0;
+  vars.film = type_7.ToString() + " | " + type_14.ToString() + " | " + type_61.ToString() + " | " + type_90.ToString() + " | " + type_0.ToString();
+}
+
+split {
+  return vars.hour_watcher.Old != vars.hour_watcher.Current;
+}
+
+start {
+  return vars.reset_watcher.Old == 0 && vars.reset_watcher.Current == 1;
+}
+
+reset  {
+  return vars.reset_watcher.Old == 1 && vars.reset_watcher.Current == 0;
 }
 
 gameTime {
   return TimeSpan.FromSeconds(3600*vars.hours + 60*vars.minutes + vars.seconds);
 }
-
-
