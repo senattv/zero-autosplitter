@@ -34,20 +34,38 @@ update {
   // Just to show on ASL var viewer
   byte the_hour = memory.ReadValue<byte>((IntPtr) 0x2031EDB2);
 
-  // film
-  byte type_7 = memory.ReadValue<byte>((IntPtr) 0x203207F0);
-  byte type_14 = memory.ReadValue<byte>((IntPtr) 0x203207F2);
-  byte type_61 = memory.ReadValue<byte>((IntPtr) 0x203207F4);
-  byte type_90 = memory.ReadValue<byte>((IntPtr) 0x203207F6);
-  byte type_0 = memory.ReadValue<byte>((IntPtr) 0x203207F8);
+  // film (Rei)
+  byte type_7_rei = memory.ReadValue<byte>((IntPtr) 0x203207F0);
+  byte type_14_rei = memory.ReadValue<byte>((IntPtr) 0x203207F2);
+  byte type_61_rei = memory.ReadValue<byte>((IntPtr) 0x203207F4);
+  byte type_90_rei = memory.ReadValue<byte>((IntPtr) 0x203207F6);
+  byte type_0_rei = memory.ReadValue<byte>((IntPtr) 0x203207F8);
     
+  // film (Miku)
+  byte type_7_miku = memory.ReadValue<byte>((IntPtr) 0x2032087A);
+  byte type_14_miku = memory.ReadValue<byte>((IntPtr) 0x2032087C);
+  byte type_61_miku = memory.ReadValue<byte>((IntPtr) 0x2032087E);
+  byte type_90_miku = memory.ReadValue<byte>((IntPtr) 0x20320880);
+  byte type_0_miku = memory.ReadValue<byte>((IntPtr) 0x20320882);  
+
+  // film (Kei)
+  byte type_7_kei = memory.ReadValue<byte>((IntPtr) 0x20320904);
+  byte type_14_kei = memory.ReadValue<byte>((IntPtr) 0x20320906);
+  byte type_61_kei = memory.ReadValue<byte>((IntPtr) 0x20320908);
+  byte type_90_kei = memory.ReadValue<byte>((IntPtr) 0x20320910);
+  byte type_0_kei = memory.ReadValue<byte>((IntPtr) 0x20320912);  
+
   vars.points = points;
   vars.hours = hours;
   vars.minutes = minutes;
   vars.seconds = seconds;
   vars.the_hour = the_hour;
   
-  vars.film = type_7.ToString() + " | " + type_14.ToString() + " | " + type_61.ToString() + " | " + type_90.ToString() + " | " + type_0.ToString();
+  vars.film_rei = type_7_rei.ToString() + " | " + type_14_rei.ToString() + " | " + type_61_rei.ToString() + " | " + type_90_rei.ToString() + " | " + type_0_rei.ToString();
+  
+  vars.film_miku = type_7_miku.ToString() + " | " + type_14_miku.ToString() + " | " + type_61_miku.ToString() + " | " + type_90_miku.ToString() + " | " + type_0_miku.ToString();
+  
+  vars.film_kei = type_7_kei.ToString() + " | " + type_14_kei.ToString() + " | " + type_61_kei.ToString() + " | " + type_90_kei.ToString() + " | " + type_0_kei.ToString();
 }
 
 split {

@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>19</AttemptCount>
+  <AttemptCount>20</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="11/30/2023 13:32:44" isStartedSynced="True" ended="11/30/2023 13:32:59" isEndedSynced="True" />
     <Attempt id="2" started="11/30/2023 13:33:59" isStartedSynced="True" ended="11/30/2023 13:34:35" isEndedSynced="True" />
@@ -50,6 +50,7 @@
       <GameTime>03:03:20.1888592</GameTime>
     </Attempt>
     <Attempt id="19" started="12/23/2023 00:06:41" isStartedSynced="True" ended="12/23/2023 00:06:45" isEndedSynced="True" />
+    <Attempt id="20" started="01/07/2024 16:19:30" isStartedSynced="False" ended="01/07/2024 16:20:11" isEndedSynced="False" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -62,7 +63,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:42.2816828</RealTime>
+        <RealTime>00:00:02.8948903</RealTime>
         <GameTime>00:02:48.0528127</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -88,10 +89,13 @@
           <RealTime>00:03:00.9940858</RealTime>
           <GameTime>00:02:48.0528127</GameTime>
         </Time>
+        <Time id="20">
+          <RealTime>00:00:02.8948903</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-Mommy</Name>
+      <Name>-Mommy [450]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -100,7 +104,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:04:15.6025887</RealTime>
+        <RealTime>00:00:11.7508179</RealTime>
         <GameTime>00:04:25.1342037</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -126,10 +130,13 @@
           <RealTime>00:04:33.4948226</RealTime>
           <GameTime>00:04:25.1342037</GameTime>
         </Time>
+        <Time id="20">
+          <RealTime>00:00:11.7508179</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-Yoshino</Name>
+      <Name>-Yoshino [301 + 1050]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -138,7 +145,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:11:30.6126005</RealTime>
+        <RealTime>00:00:05.4739698</RealTime>
         <GameTime>00:11:32.8772360</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -164,6 +171,9 @@
           <RealTime>00:11:50.1113317</RealTime>
           <GameTime>00:11:32.8772360</GameTime>
         </Time>
+        <Time id="20">
+          <RealTime>00:00:05.4739698</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -176,7 +186,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:48.3813079</RealTime>
+        <RealTime>00:00:06.8189407</RealTime>
         <GameTime>00:00:48.0037939</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -202,10 +212,13 @@
           <RealTime>00:00:48.3813079</RealTime>
           <GameTime>00:00:48.0037939</GameTime>
         </Time>
+        <Time id="20">
+          <RealTime>00:00:06.8189407</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-Stained Carpenters</Name>
+      <Name>-Carpenters [690x2]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -241,7 +254,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-Roof Carpenter</Name>
+      <Name>-Carpenter [690]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -317,7 +330,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-Kyouka</Name>
+      <Name>-Kyouka [900]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -351,7 +364,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-Little S***</Name>
+      <Name>-Minamo Little S*** [900]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -427,7 +440,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-Butcher</Name>
+      <Name>-Butcher [900]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -463,7 +476,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-Kyouka</Name>
+      <Name>-Kyouka [750]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -501,7 +514,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-Rope Lady</Name>
+      <Name>-Rope Lady [900]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -613,7 +626,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-Foyer Little S***</Name>
+      <Name>-Hisame Little S*** [900]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -651,7 +664,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-Tatami Carpenter</Name>
+      <Name>-Tatami Carpenter [1050]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -687,7 +700,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-Foyer Carpenter</Name>
+      <Name>-Foyer Carpenter [1050]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -723,7 +736,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-Stairs Carpenter</Name>
+      <Name>-Stairs Carpenter [1050]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -759,7 +772,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-Loft Carpenter</Name>
+      <Name>-Loft Carpenter [1050]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -835,7 +848,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-Altar Little S***</Name>
+      <Name>-Shigure Little S*** [810]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -873,7 +886,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-Yashuu</Name>
+      <Name>-Yashuu [1200]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -949,7 +962,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-Kusabi</Name>
+      <Name>-Kusabi [900]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -1025,7 +1038,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-Butcher 1</Name>
+      <Name>-Butcher 1 [1200]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -1061,7 +1074,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-Butcher 2</Name>
+      <Name>-Butcher 2 [1500]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -1137,7 +1150,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-Spike Ladies</Name>
+      <Name>-Spike Ladies [750 x2]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -1213,7 +1226,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-Yashuu</Name>
+      <Name>-Yashuu [1200]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -1251,7 +1264,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-3 Little S***s</Name>
+      <Name>-Little S***s [750 x3]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -1289,7 +1302,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-Rope Lady</Name>
+      <Name>-Rope Lady [1500]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -1365,7 +1378,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-Yashuu and Little S***</Name>
+      <Name>-Yashuu [1500]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -1403,7 +1416,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>H12 (~NW, ~S/SW, NW/R/R, N/SW)</Name>
+      <Name>H12</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -1441,7 +1454,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-Yashuu</Name>
+      <Name>-Yashuu [1800]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -1479,7 +1492,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-One Little S***</Name>
+      <Name>-One Little S*** [750]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
@@ -1513,7 +1526,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>-Two Little S***s</Name>
+      <Name>-Two Little S***s [750 x2]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
