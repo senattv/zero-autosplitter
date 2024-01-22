@@ -52,8 +52,8 @@ update {
   byte type_7_kei = memory.ReadValue<byte>((IntPtr) 0x20320904);
   byte type_14_kei = memory.ReadValue<byte>((IntPtr) 0x20320906);
   byte type_61_kei = memory.ReadValue<byte>((IntPtr) 0x20320908);
-  byte type_90_kei = memory.ReadValue<byte>((IntPtr) 0x20320910);
-  byte type_0_kei = memory.ReadValue<byte>((IntPtr) 0x20320912);  
+  byte type_90_kei = memory.ReadValue<byte>((IntPtr) 0x2032090A);
+  byte type_0_kei = memory.ReadValue<byte>((IntPtr) 0x2032090C);  
 
   vars.points = points;
   vars.hours = hours;
